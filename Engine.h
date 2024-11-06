@@ -40,5 +40,4 @@ public:
     friend std::ostream &operator<<(std::ostream &os, const Engine &rhs);
 };
 
-
 #endif // ENGINE_H
