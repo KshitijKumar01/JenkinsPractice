@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/jenkinsprjt:latest
+          tags: "kshitijk010/jenkinsprjt:latest"
